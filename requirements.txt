@@ -1,4 +1,5 @@
 streamlit
 supabase
 st-supabase-connection==2.0.0 #24.1.2
-#user=postgres.jhpdalsdsiwhgtnlfevz password=[sBase8481612!] host=aws-0-eu-central-1.pooler.supabase.com port=6543 dbname=postgres
+st-login-form
+loginform
